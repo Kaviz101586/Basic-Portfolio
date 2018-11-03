@@ -1,0 +1,42 @@
+  .body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("first_aid_kit_@2X.png")
+  }  
+  
+  .name {
+    position: fixed;  
+    top: 0px;
+    left: 400px;
+    padding: 40px;
+    margin: 0px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
+
+  .topnav {
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: #777777
+  }
+  
+  .topnav a {
+    float: right;
+    position: relative;
+    right: 400px;
+    color: #777777;
+    text-align: center;
+    padding: 20px;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ffffff;
+    color: black;
+  }
+
+  .contact{
+    color:#4aaaa5
+  }
